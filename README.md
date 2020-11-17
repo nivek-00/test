@@ -1,2 +1,3 @@
 # test
-Coursera use
+Coursera use 
+Changes in readme file
